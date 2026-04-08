@@ -8,10 +8,12 @@ body,html{
     height:100%;
     background-color: rgba(248, 230, 207, 0.925);
     /* background-color: #d8f3dc; */
-    color: #1b4332;
+    /* color: #1b4332; */
+    color:rgb(233, 205, 114);
     font-family:Arial, Helvetica, sans-serif;
     padding-top:4.8rem;
     padding-left: 11rem;
+    background-image: url(https://img.freepik.com/premium-vector/dark-green-gradient-background-with-space-text_744381-4730.jpg?semt=ais_hybrid&w=740&q=80);
 }
 #navbar{
     background-color: white;
